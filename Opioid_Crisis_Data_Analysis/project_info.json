@@ -1,0 +1,13 @@
+{
+  "name": "Opioid Crisis Data Analysis",
+  "description": " The data team provided weekly updates on large datasets key metrics on Virginia\u2019s Opioid Crisis, the fast increase in deaths impacted resource allocation of Narcan at the community zip code level using R for geocode mapping in Tableau.  Article link below:",
+  "links": [
+    "https://wvmetronews.com/2017/11/01/presidents-opioid-commission-releases-final-report/"
+  ],
+  "technologies": [
+    "R",
+    "Tableau",
+    "Geocode Mapping",
+    "Data Analysis"
+  ]
+}
